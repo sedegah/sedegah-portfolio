@@ -1,4 +1,4 @@
 Personal Portfolio – sedegah
 
-This is my personal developer portfolio built with **React + TypeScript + Vite + TailwindCSS**.  
+This is my personal developer portfolio 
 It showcases my projects, experiences, and background as a software engineer
