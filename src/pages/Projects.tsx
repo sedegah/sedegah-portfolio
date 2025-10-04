@@ -98,7 +98,7 @@ const projectCategories: ProjectCategory[] = [
         url: 'https://codecomparator.vercel.app',
       },
       {
-        name: 'DailyScope News',
+        name: 'Daily Scope News',
         description: 'Frontend-only news site delivering real-time updates from multiple sources.',
         url: 'https://daily-scope-news.vercel.app',
       },
