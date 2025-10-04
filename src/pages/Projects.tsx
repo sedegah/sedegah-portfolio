@@ -15,61 +15,6 @@ interface ProjectCategory {
 
 const projectCategories: ProjectCategory[] = [
   {
-    title: 'Web Applications',
-    projects: [
-      {
-        name: 'Code Comparator',
-        description: 'AI-powered tool for comparing code snippets, visualizing diffs, and integrating with CI pipelines.',
-        url: 'https://codecomparator.vercel.app',
-      },
-      {
-        name: 'DailyScope News',
-        description: 'Frontend-only news site delivering real-time updates from multiple sources.',
-        url: 'https://daily-scope-news.vercel.app',
-      },
-      {
-        name: 'SceneRadar',
-        description: 'Platform for discovering trending movies, shows, and reviews.',
-        url: 'https://sceneradar.onrender.com',
-      },
-      {
-        name: 'Updevted',
-        description: 'Curates tech news, GitHub trends, and career insights.',
-        url: 'https://updevted.onrender.com',
-      },
-      {
-        name: 'Sustainability Hub',
-        description: 'Platform to map sustainability initiatives, events, and projects.',
-        url: 'https://sustainabilityhub.netlify.app',
-      },
-      {
-        name: 'Checkmate Arena',
-        description: 'Online chess + puzzles platform with Sudoku and Solitaire.',
-        url: 'https://checkmatearena-nikm.onrender.com',
-      },
-      {
-        name: 'Unique Child Academy Website',
-        description: 'Customized school website for UCA.',
-        url: 'https://uniquechildacademy.vercel.app',
-      },
-      {
-        name: 'ResumeCraft',
-        description: 'Professional resume builder with customizable templates.',
-        url: 'https://craftresume.vercel.app',
-      },
-      {
-        name: 'Code Cadence',
-        description: 'Coding rhythm and productivity tracker.',
-        url: 'https://codecadence.vercel.app',
-      },
-      {
-        name: 'Cadence V2',
-        description: 'Enhanced version of Code Cadence with new features.',
-        url: 'https://cadencev2.vercel.app',
-      },
-    ],
-  },
-  {
     title: 'Developer Tools & CLI Projects',
     projects: [
       {
@@ -141,6 +86,56 @@ const projectCategories: ProjectCategory[] = [
         name: 'ZigScan',
         description: 'Unicode scanner in Zig for detecting confusable characters.',
         url: 'https://github.com/sedegah/ZigScan',
+      },
+    ],
+  },
+  {
+    title: 'Web Applications',
+    projects: [
+      {
+        name: 'Code Comparator',
+        description: 'AI-powered tool for comparing code snippets, visualizing diffs, and integrating with CI pipelines.',
+        url: 'https://codecomparator.vercel.app',
+      },
+      {
+        name: 'DailyScope News',
+        description: 'Frontend-only news site delivering real-time updates from multiple sources.',
+        url: 'https://daily-scope-news.vercel.app',
+      },
+      {
+        name: 'SceneRadar',
+        description: 'Platform for discovering trending movies, shows, and reviews.',
+        url: 'https://sceneradar.onrender.com',
+      },
+      {
+        name: 'Updevted',
+        description: 'Curates tech news, GitHub trends, and career insights.',
+        url: 'https://updevted.onrender.com',
+      },
+      {
+        name: 'Sustainability Hub',
+        description: 'Platform to map sustainability initiatives, events, and projects.',
+        url: 'https://sustainabilityhub.netlify.app',
+      },
+      {
+        name: 'Checkmate Arena',
+        description: 'Online chess + puzzles platform with Sudoku and Solitaire.',
+        url: 'https://checkmatearena-nikm.onrender.com',
+      },
+      {
+        name: 'Unique Child Academy Website',
+        description: 'Customized school website for UCA.',
+        url: 'https://uniquechildacademy.vercel.app',
+      },
+      {
+        name: 'Code Cadence',
+        description: 'Business website for a company I founded, Code Cadence.',
+        url: 'https://codecadence.vercel.app',
+      },
+      {
+        name: 'Cadence V2',
+        description: 'Enhanced version of Code Cadence with new features.',
+        url: 'https://cadencev2.vercel.app',
       },
     ],
   },
